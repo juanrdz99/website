@@ -13,6 +13,9 @@ Página web básica y responsiva.
 1. Descargar los archivos.
 2. Abrir `index.html` en un navegador.
 
+## Link Netlify
+https://relaxed-basbousa-271f80.netlify.app/
+
 ---
 
 **Autor:** Juan Rodriguez
